@@ -1,6 +1,6 @@
 # EC2 Launch with Terraform
 
-Launches a t2.micro EC2 instance using AWS free-tier eligible AMI.
+Launches a t2.micro EC2 instance using AWS free-tier eligible.
 
 ## Prerequisites
 
