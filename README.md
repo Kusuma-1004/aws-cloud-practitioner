@@ -2,7 +2,7 @@
 Hands on learning of aws
 # AWS Cloud Practitioner (CLF-C02) Hands-On Learning
 
-This repository tracks my hands-on learning progress while preparing for the **AWS Certified Cloud Practitioner (CLF-C02)** exam. 
+This repository tracks my hands-on learning progress while preparing for the **AWS Certified Cloud Practitioner (CLF-C02)** exam
 
 ## 🚀 Topics
 - IAM: Users, Groups, Policies 
